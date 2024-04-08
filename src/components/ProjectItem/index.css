@@ -1,0 +1,23 @@
+.list-item {
+  height: 160px;
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  box-shadow: 4px 2px 6px 4px #e6e9ec;
+  border-radius: 8px;
+  margin-right: 12px;
+  margin-bottom: 22px;
+}
+
+.image {
+  height: 100px;
+  border-radius: 8px;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  width: 120px;
+  color: #475569;
+  padding-left: 12px;
+}
